@@ -10,3 +10,6 @@ and review sentiment across ~1,000 Steam titles (2B+ combined estimated owners).
 - Discount impact on game popularity
 - Genre distribution by review sentiment
 
+
+
+<img width="1757" height="1001" alt="image" src="https://github.com/user-attachments/assets/4d24c026-4bbe-4b9a-ab29-94dbd1dddccf" />
